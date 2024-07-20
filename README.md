@@ -1,6 +1,6 @@
 ![logo](https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/Technology%20LinkedIn%20Banner%20in%20Black%20Blue%20Simple%20Style%20(2).png)
 <h1 align="center">Hi 👋, I'm Subhradeep Nath</h1>
-<h3 align="center">A passionate AI enthusiast</h3>
+<h3 align="center">An indie passionate AI enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/75c2f842863ae2df6b3ac2d0a4d63026.gif">
 
