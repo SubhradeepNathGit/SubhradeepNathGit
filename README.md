@@ -6,7 +6,7 @@
 
 <p align="right"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1u4DtYpKCeSBb8FSgUpPON&ust=1721260219531000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiq6ZHgrIcDFQAAAAAdAAAAABAR" /> </p>
 
-- 🌱 I’m currently learning **Python, SQL, Generative AI**
+- 🌱 I’m currently working on **Python, SQL, Generative AI**
 
 - 📫 How to reach me **subhradeepnathprofessional@gmail.com**
 
