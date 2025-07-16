@@ -1,12 +1,12 @@
 ![logo](https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/Technology%20LinkedIn%20Banner%20in%20Black%20Blue%20Simple%20Style%20(2).png)
 <h1 align="center">Hi 👋, I'm Subhradeep Nath</h1>
-<h3 align="center">An indie passionate AI enthusiast</h3>
+<h3 align="center"> Full Stack Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/75c2f842863ae2df6b3ac2d0a4d63026.gif">
 
 <p align="right"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1u4DtYpKCeSBb8FSgUpPON&ust=1721260219531000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiq6ZHgrIcDFQAAAAAdAAAAABAR" /> </p>
 
-- 🌱 I’m currently working on **Python, SQL, Generative AI**
+- 🌱 I’m currently working on **React-Redux & Next Js, Metirial Ui & Tailwind Css, Generative AI**
 
 - 📫 How to reach me **subhradeepnathprofessional@gmail.com**
 
