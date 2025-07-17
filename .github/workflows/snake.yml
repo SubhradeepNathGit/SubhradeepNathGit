@@ -35,4 +35,4 @@ jobs:
           keep_history: true
           allow_empty_commit: true
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SNAKE_GITHUB_TOKEN }}
