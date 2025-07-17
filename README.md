@@ -55,7 +55,7 @@ Nowadays, I’m focused on building production-grade, frontend-driven applicatio
 
 ---
 
-<h3 align="left">🧰 Languages and Tools</h3>
+<h3 align="left">🛒 Tech stack ★ ★ ★ ★ ★</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,redux,nextjs,tailwind" alt="Frontend Skills" />
   <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" width="40" height="40" style="margin-left: 4px; vertical-align: middle;" />
@@ -76,10 +76,9 @@ Nowadays, I’m focused on building production-grade, frontend-driven applicatio
   <img src="https://github-readme-stats.vercel.app/api?username=SubhradeepNathGit&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&custom_title=GitHub+Stats" alt="GitHub Stats" />
 </div>
 
----
 
-<h2 align="center">📈 Contribution Graph</h2>
 
+<h2 align="center">📈 Contribution </h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhradeepNathGit&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
