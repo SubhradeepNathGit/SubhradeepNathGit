@@ -11,7 +11,8 @@
 <h1 align="center">Hi 👋, This is Subhradeep Nath</h1>
 <h3 align="center">Next-Gen Frontend Developer — transforming ideas into interfaces</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/75c2f842863ae2df6b3ac2d0a4d63026.gif">
+<img align="right" width="300" height="200" src="" alt="Coding GIF" />
+
 
 - 🧑‍💻 Currently working on **React-Redux & Next Js, Material UI & Tailwind Css, Generative AI**
 
