@@ -1,32 +1,94 @@
-![logo](https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/Technology%20LinkedIn%20Banner%20in%20Black%20Blue%20Simple%20Style%20(2).png)
-<h1 align="center">Hi 👋, I'm Subhradeep Nath</h1>
-<h3 align="center"> Full Stack Developer</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/Technology%20LinkedIn%20Banner%20in%20Black%20Blue%20Simple%20Style%20(2).png" alt="banner" />
+</p>
+
+<!-- Auto-scroll headline -->
+<marquee behavior="scroll" direction="left" scrollamount="5" style="color:#0dcaf0; font-weight:bold; font-size:18px;">
+  🚀 Welcome to Subhradeep Nath's GitHub – Building futuristic frontends with React, Next.js, Tailwind & AI! 🔥
+</marquee>
+
+<h1 align="center">Hi 👋, This is Subhradeep Nath</h1>
+<h3 align="center">Next-Gen Frontend Developer — transforming ideas into interfaces</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/75c2f842863ae2df6b3ac2d0a4d63026.gif">
 
-<p align="right"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1u4DtYpKCeSBb8FSgUpPON&ust=1721260219531000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiq6ZHgrIcDFQAAAAAdAAAAABAR" /> </p>
+- 🧑‍💻 Currently working on **React-Redux & Next Js, Material UI & Tailwind Css, Generative AI**
 
-- 🌱 I’m currently working on **React-Redux & Next Js, Metirial Ui & Tailwind Css, Generative AI**
+- 📮 Reach me at **subhradeepnathprofessional@gmail.com**
 
-- 📫 How to reach me **subhradeepnathprofessional@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect & add me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/subhradeep-nath-4b4b442a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhradeep-nath-4b4b442a5" height="30" width="40" /></a>
-<a href="https://instagram.com/subhra_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhra_official" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/subhradeep-nath-4b4b442a5" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/subhra_official" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p> 
 
 
-<h2 style="font-size: x-small;"> Technical Journey till date </h2>
+<h2 style="font-size: x-small; text-align: center;">From Circuits to Code: My Dev Journey </h2>
 
-<p style="font-size: xx-small;">My coding journey has been marked by a series of progressively challenging and innovative projects, demonstrating my expertise and versatility in various technological domains. Starting with the development of an early warning Smoke Detector Alarm in June 2023, I utilized Arduino Uno and an MQ2 sensor to enhance fire prevention and security. In November 2023, I gained knowledge about AWS and simplified web development by implementing web hosting using WordPress. My most ambitious project, completed in May 2024, was the development of a Smart Stock Trading System, an AI-powered investment decision support web application leveraging frameworks such as Keras, TensorFlow, PyTorch, and Scikit-learn, and deployed through Streamlit. This project also led to a publication in IJSERM, where I detailed the use of LSTM and NeuralProphet models to forecast stock trends using the last ten years' stock data from Yahoo Finance, contributing to innovations in financial analysis.   
-...Read more <a href="https://ijsrem.com/download/analytical-detection-of-smart-stock-trading-system-utilizing-ai-model/" style="font-size: x-small;">&#128279;</a></p>
+<p style="font-size: xx-small;">
+Versetile Frontend Developer with a strong MERN enthusiasm, profficient in building modern, smooth & responsive, performance-based web applications.  
+The journey began with a focus on clean UI design, interactive interfaces and seamless API integration — skilled in React.js (with Vite), Redux Toolkit, Next.js, JavaScript, and modern styling frameworks like Tailwind CSS, Material UI, SCSS, and React-Bootstrap.  
+I deliver scalable, maintainable and flawless frontend solutions.  
 
+I’ve also worked extensively with Supabase and real-world REST API integrations, aligning closely with industry & business standards.
+
+Earlier, I explored hardware projects — Smoke Detector Alarm using Arduino Uno and MQ2 sensor (2023), as well as web hosting setup via WordPress on AWS.  
+In 2024, I engineered a full-stack AI-powered Stock Trading System leveraging TensorFlow, Keras, PyTorch, Scikit-learn and Streamlit for deployment, forecasting market trends using historical stock data.  
+This work was published in IJSERM, showcasing applied AI in financial analysis...Read more  <a href="https://ijsrem.com/download/analytical-detection-of-smart-stock-trading-system-utilizing-ai-model/" style="font-size: x-small;">📎</a>
+</p>
+<p style="font-size: small;">
+Now-a-days, I’m focused on building production-grade, frontend-driven applications that blend functionality, performance and futuristic UI designs — powered by MERN & AI.
+</p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>
 
+  <!-- Backend & Database -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://supabase.com/_next/image?url=%2Fbrand-assets%2Fimages%2Flogos%2Fsupabase-logo-icon.png&w=96&q=75" alt="Supabase" width="40" height="40"/>
 
+  <!-- ML / Data -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhradeepnathgit&" alt="subhradeepnathgit" /></p>
+  <!-- Misc -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhradeepnathgit&theme=dark" alt="GitHub Streak" />
+</p>
