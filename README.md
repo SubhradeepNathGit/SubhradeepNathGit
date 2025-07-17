@@ -11,13 +11,13 @@
 <h1 align="center">Hi 👋, This is Subhradeep Nath</h1>
 <h3 align="center">Next-Gen Frontend Developer — transforming ideas into interfaces</h3>
 
-<img align="right" width="300" height="200" src="" alt="Coding GIF" />
+<img align="right" width="320" height="400" src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/Gitimage.gif" alt="Coding GIF" />
 
 
 - 🧑‍💻 Currently working on **React-Redux & Next Js, Material UI & Tailwind Css, Generative AI**
 
 - 📮 Reach me at **subhradeepnathprofessional@gmail.com**
-
+<br/>
 <h3 align="left">Connect & add me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/subhradeep-nath-4b4b442a5" target="blank">
@@ -27,6 +27,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p> 
+
 
 
 <h2 style="font-size: x-small; text-align: center;">From Circuits to Code: My Dev Journey </h2>
@@ -47,47 +48,38 @@ Now-a-days, I’m focused on building production-grade, frontend-driven applicat
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>
+  <!-- Skillicons + MUI aligned -->
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,redux,nextjs,tailwind" alt="Frontend Skills" />
+  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" width="40" height="40" style="margin-left: 4px; vertical-align: middle;" />
+  <img src="https://skillicons.dev/icons?i=cpp,python" alt="Languages" />
+   <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,netlify" alt="Dev Tools" />
+</p>
+<br/>
+<h2 align="center">📊 GitHub Analytics</h2>
 
-  <!-- Backend & Database -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://supabase.com/_next/image?url=%2Fbrand-assets%2Fimages%2Flogos%2Fsupabase-logo-icon.png&w=96&q=75" alt="Supabase" width="40" height="40"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SubhradeepNathGit&label=Profile%20Views&color=gray&style=flat-square&labelColor=white" alt="Profile Views" />
+</p>
 
-  <!-- ML / Data -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhradeepNathGit&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SubhradeepNathGit&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&custom_title=GitHub+Stats" alt="GitHub Stats" />
+</div>
 
-  <!-- Misc -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+---
+
+<h2 align="center">📊 Contribution Graph & Snake 🐍</h2>
+
+<p align="center">
+  <img src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhradeepNathGit&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhradeepnathgit&theme=dark" alt="GitHub Streak" />
-</p>
+<!-- Auto light/dark mode supported by transparent themes -->
+
