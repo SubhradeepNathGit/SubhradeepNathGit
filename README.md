@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, This is Subhradeep Nath</h1>
 <h3 align="center">Next-Gen Frontend Developer — transforming ideas into interfaces</h3>
 
-<img align="right" width="320" height="400" src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/Gitimage.gif" alt="Coding GIF" />
+<img align="right" width="320" height="450" src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/Gitimage.gif" alt="Coding GIF" />
 
 - 🧑‍💻 Currently working on **React-Redux & Next.js, Material UI & Tailwind CSS, Generative AI**
 
@@ -36,10 +36,10 @@
 
 
 
-<h2 align="left">...from Circuits 𓏠 to Code⚛</>: My Dev Journey</h2>
+<h2 align="left">from 𓏠circuits  to  ⚛coding </> : My Dev Journey</h2>
 
 <p>
-Versatile Frontend Developer with a strong MERN enthusiasm, proficient in building modern, smooth & responsive, performance-based web applications.  
+I'm a versatile Frontend developer with a strong MERN enthusiasm, proficient in building modern, smooth & responsive, performance-based web applications.  
 The journey began with a focus on clean UI design, interactive interfaces and seamless API integration — skilled in React.js (with Vite), Redux Toolkit, Next.js, JavaScript, and modern styling frameworks like Tailwind CSS, Material UI, SCSS, and React-Bootstrap.  
 I deliver scalable, maintainable and flawless frontend solutions.  
 I’ve also worked extensively with Supabase and real-world REST API integrations, aligning closely with industry & business standards.
