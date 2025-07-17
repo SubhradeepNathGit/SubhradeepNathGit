@@ -8,7 +8,7 @@
   🚀 Welcome to Subhradeep Nath's GitHub – Building futuristic frontends with React, Next.js, Tailwind & AI! 🔥
 </marquee>
 
-<h1 align="center">Hi👋 This is Subhradeep Nath</h1>
+<h1 align="center">Hi 👋 This is Subhradeep Nath</h1>
 <h3 align="center">Next-Gen Frontend Developer — transforming ideas into interfaces</h3>
 
 <img align="right" width="320" height="450" src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/Gitimage.gif" alt="Coding GIF" />
