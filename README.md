@@ -34,12 +34,10 @@
 Versetile Frontend Developer with a strong MERN enthusiasm, profficient in building modern, smooth & responsive, performance-based web applications.  
 The journey began with a focus on clean UI design, interactive interfaces and seamless API integration — skilled in React.js (with Vite), Redux Toolkit, Next.js, JavaScript, and modern styling frameworks like Tailwind CSS, Material UI, SCSS, and React-Bootstrap.  
 I deliver scalable, maintainable and flawless frontend solutions.  
-
 I’ve also worked extensively with Supabase and real-world REST API integrations, aligning closely with industry & business standards.
 
 Earlier, I explored hardware projects — Smoke Detector Alarm using Arduino Uno and MQ2 sensor (2023), as well as web hosting setup via WordPress on AWS.  
-In 2024, I engineered a full-stack AI-powered Stock Trading System leveraging TensorFlow, Keras, PyTorch, Scikit-learn and Streamlit for deployment, forecasting market trends using historical stock data.  
-This work was published in IJSERM, showcasing applied AI in financial analysis...Read more  <a href="https://ijsrem.com/download/analytical-detection-of-smart-stock-trading-system-utilizing-ai-model/" style="font-size: x-small;">📎</a>
+In 2024, I engineered a full-stack AI-powered Stock Trading System leveraging TensorFlow, Keras, PyTorch, Scikit-learn and Streamlit for deployment, forecasting market trends using historical stock data. This was published in IJSERM, showcasing applied AI in financial analysis...Read more  <a href="https://ijsrem.com/download/analytical-detection-of-smart-stock-trading-system-utilizing-ai-model/" style="font-size: x-small;">📎</a>
 </p>
 <p style="font-size: small;">
 Now-a-days, I’m focused on building production-grade, frontend-driven applications that blend functionality, performance and futuristic UI designs — powered by MERN & AI.
