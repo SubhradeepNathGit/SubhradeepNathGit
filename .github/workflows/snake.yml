@@ -10,6 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout the repo – MANDATORY!
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate GitHub Snake 🐍
         uses: Platane/snk@v3
         with:
@@ -26,7 +30,5 @@ jobs:
           commit_message: "🐍 Update Snake animation"
           keep_history: true
           allow_empty_commit: true
-          user_name: "github-actions[bot]"
-          user_email: "41898282+github-actions[bot]@users.noreply.github.com"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
