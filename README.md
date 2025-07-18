@@ -56,13 +56,14 @@ Nowadays, I’m focused on building production-grade, frontend-driven applicatio
 ---
 
 <h3 align="left">🛒 Tech stack ★ ★ ★ ★ ★</h3>
-<p align="left">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,redux,nextjs,tailwind" alt="Frontend Skills" />
-  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" width="40" height="40" style="margin: 10px; vertical-align: middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" width="40" height="40" style="vertical-align: middle;" />
   <img src="https://skillicons.dev/icons?i=nodejs,cpp,python" alt="Languages" />
   <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,netlify" alt="Dev Tools" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" style="margin-left: 4px; vertical-align: middle;" />
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" style="vertical-align: middle;" />
+</div>
+
 
 ---
 
