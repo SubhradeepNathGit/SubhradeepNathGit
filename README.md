@@ -73,6 +73,7 @@ Nowadays, I’m focused on building production-grade, frontend-driven applicatio
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
   </a>
+  
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
   </a>
@@ -118,6 +119,9 @@ Nowadays, I’m focused on building production-grade, frontend-driven applicatio
   <a href="https://supabase.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" />
   </a>
+  <a href="https://firebase.google.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" />
+</a>
 </p>
 
 
