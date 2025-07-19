@@ -122,6 +122,10 @@ Nowadays, I’m focused on building production-grade, frontend-driven applicatio
   <a href="https://firebase.google.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" />
 </a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="40" />
+</a>
+
 </p>
 
 
