@@ -139,7 +139,7 @@ Nowadays, I’m focused on building production-grade, frontend-driven applicatio
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhradeepNathGit&theme=transparent&hide_border=true" alt="Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SubhradeepNathGit&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&custom_title=🔥+Subhradeep's+Commit+Tracker" alt="Commit Tracker" />
   <img src="https://github-readme-stats.vercel.app/api?username=SubhradeepNathGit&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&custom_title=GitHub+Stats" alt="GitHub Stats" />
 </div>
 
