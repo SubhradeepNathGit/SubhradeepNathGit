@@ -80,6 +80,8 @@ Nowadays, I’m focused on building production-grade, frontend-driven applicatio
   <a href="https://redux.js.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
   </a>
+
+
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
   </a>
