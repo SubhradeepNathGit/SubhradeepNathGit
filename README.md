@@ -9,6 +9,13 @@
 </marquee>
 
 <h1 align="center">Hi 👋 This is Subhradeep Nath</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F46A6A&center=true&vCenter=true&width=500&lines=👋+Hi!+This+is+Subhradeep+Nath;FrontEnd+Developer+%7C+Web+Designer;Tech+and+AI+Enthusiast" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F46A6A&center=true&vCenter=true&width=435&lines=FrontEnd+Developer+%7C+Web+Designer;Tech+and+AI+Enthusiast" alt="Typing SVG" />
+</p>
 <h3 align="center">The Next-Gen Frontend Developer — transforming ideas into interfaces</h3>
 
 <img align="right" width="310" height="450" src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/Gitimage.gif" alt="Coding GIF" />
