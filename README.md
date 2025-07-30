@@ -2,25 +2,15 @@
 <p align="center">
   <img src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/Technology%20LinkedIn%20Banner%20in%20Black%20Blue%20Simple%20Style%20(2).png" alt="banner" />
 </p>
-<!-- Auto-scroll headline -->
-<marquee behavior="scroll" direction="left" scrollamount="5" style="font-weight:bold; font-size:18px; white-space: nowrap;">
-  <span style="display:inline-flex; align-items:center;">
-    Welcome to my GitHub – building futuristic frontend designs with React, Next.js, Tailwind & AI!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" style="margin-left:6px;" />
-  </span>
-</marquee>
 
----
-<!-- First Typing Line -->
+<h4 align="left" >
+Welcome to my GitHub – building futuristic frontend designs with <strong>React</strong>, <strong>Next.js</strong>, <strong>Tailwind</strong> & <strong>AI</strong>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" />
+</h4>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=36&pause=1000&color=6E6E6E&center=true&vCenter=true&width=600&lines=Hi+there!;This+is+Subhradeep+Nath" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=32&pause=1000&color=6E6E6E&center=true&vCenter=true&width=600&lines=Hi+there!;This+is+Subhradeep+Nath;The+Next-Gen+Frontend+Developer;Transforming+ideas+into;Innovative+Interfaces" alt="Typing SVG" />
 </p>
 
-
-<h3 align="center">
-  <span style="color: #b58900;">The Next-Gen Frontend Developer</span>
-  <span style="color: white;"> — transforming ideas into interfaces</span>
-</h3>
 
 
 <img align="right" width="310" height="450" src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/Gitimage.gif" alt="Coding GIF" />
