@@ -9,7 +9,7 @@ Welcome to my GitHub – building futuristic frontends with <strong>React</stron
 
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=32&pause=1000&color=6E6E6E&center=true&vCenter=true&width=600&lines=Hi+there!;This+is+Subhradeep+Nath;The+Next-Gen+Frontend+Developer;Transforming+Ideas+into;Innovative+Interfaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=32&pause=1000&color=6E6E6E&center=true&vCenter=true&width=600&lines=Hi+there!;This+is+Subhradeep+Nath;The+Next-Gen+Frontend+Developer;Transforming+Ideas+into;Interactive+Interfaces" alt="Typing SVG" />
 </p>
 <br>
 
