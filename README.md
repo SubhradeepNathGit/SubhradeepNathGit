@@ -130,6 +130,9 @@ Nowadays, I’m focused on building production-grade, frontend-driven applicatio
 
 </p>
 
+<div align="center">
+  <img src="https://github.com/ritinmandal/ritinmandal/blob/output/github-snake-dark.svg" alt="snake gif" />
+</div>
 
 
 
@@ -150,24 +153,19 @@ Nowadays, I’m focused on building production-grade, frontend-driven applicatio
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhradeepNathGit&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
+
+
 <p align="center">
 
 
   
  <p align="center">
-
-  
-
   <img src="https://nirzak-streak-stats.vercel.app/?user=Subhradeepnathgit&theme=dark&hide_border=true" alt="GitHub Streak" style="display: inline-block; vertical-align: top;" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhradeepnathgit&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="display: inline-block; vertical-align: top;" /><br/><br/>
-
-
 </p>
 
-<div align="center">
-  <img src="https://github.com/ritinmandal/ritinmandal/blob/output/github-snake-dark.svg" alt="snake gif" />
-</div>
+
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quotes" />
