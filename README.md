@@ -6,6 +6,7 @@
 <h4 align="left" >
 Welcome to my GitHub – building futuristic frontend designs with <strong>React</strong>, <strong>Next.js</strong>, <strong>Tailwind</strong> & <strong>AI</strong>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" />
 </h4>
+
 <br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=32&pause=1000&color=6E6E6E&center=true&vCenter=true&width=600&lines=Hi+there!;This+is+Subhradeep+Nath;The+Next-Gen+Frontend+Developer;Transforming+Ideas+into;Innovative+Interfaces" alt="Typing SVG" />
@@ -133,7 +134,7 @@ Nowadays, I’m focused on building production-grade, frontend-driven applicatio
 
 
 
----
+
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -142,10 +143,9 @@ Nowadays, I’m focused on building production-grade, frontend-driven applicatio
 </p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SubhradeepNathGit&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&custom_title=🔥+Subhradeep's+Commit+Tracker" alt="Commit Tracker" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SubhradeepNathGit&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&custom_title=Commit+Tracker" alt="Commit Tracker" />
   <img src="https://github-readme-stats.vercel.app/api?username=SubhradeepNathGit&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&custom_title=GitHub+Stats" alt="GitHub Stats" />
 </div>
-
 
 
 <h2 align="center">📈 Contribution </h2>
@@ -153,6 +153,12 @@ Nowadays, I’m focused on building production-grade, frontend-driven applicatio
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhradeepNathGit&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quotes" />
+</p>
+
+
+  
 
 
 
