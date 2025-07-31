@@ -43,11 +43,10 @@ Welcome to my GitHub – building futuristic frontends with <strong>React</stron
 <p>
 I'm a versatile Frontend developer with a strong MERN enthusiasm, proficient in building modern, smooth & responsive, performance-based web applications.  
 The journey began with a focus on clean UI design, interactive interfaces and seamless API integration — skilled in React.js (with Vite), Redux Toolkit, Next.js, JavaScript, and modern styling frameworks like Tailwind CSS, Material UI, SCSS, and React-Bootstrap.  
-I deliver scalable, maintainable and flawless frontend solutions.  
-I’ve also worked extensively with Supabase and real-world REST API integrations, aligning closely with industry & business standards.
+I deliver scalable, maintainable and flawless frontend solutions. I’ve also worked extensively with Supabase and real-world REST API integrations, aligning closely with industry & business standards.
 
 Earlier, I explored hardware projects — Smoke Detector Alarm using Arduino Uno and MQ2 sensor (2023), as well as web hosting setup via WordPress on AWS.  
-In 2024, I engineered a full-stack AI-powered Stock Trading System leveraging TensorFlow, Keras, PyTorch, Scikit-learn and Streamlit for deployment, forecasting market trends using historical stock data. This was published in IJSERM...📎 <a href="https://ijsrem.com/download/analytical-detection-of-smart-stock-trading-system-utilizing-ai-model/">Read more</a>
+In 2024, I engineered a full-stack AI-powered Stock Trading System leveraging TensorFlow, Keras, PyTorch, Scikit-learn and Streamlit for deployment, forecasting market trends using historical stock data, published by IJSERM...📎 <a href="https://ijsrem.com/download/analytical-detection-of-smart-stock-trading-system-utilizing-ai-model/">Read more</a>
 </p>
 
 <p>
