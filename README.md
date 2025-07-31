@@ -47,8 +47,7 @@ I deliver scalable, maintainable and flawless frontend solutions.
 I’ve also worked extensively with Supabase and real-world REST API integrations, aligning closely with industry & business standards.
 
 Earlier, I explored hardware projects — Smoke Detector Alarm using Arduino Uno and MQ2 sensor (2023), as well as web hosting setup via WordPress on AWS.  
-In 2024, I engineered a full-stack AI-powered Stock Trading System leveraging TensorFlow, Keras, PyTorch, Scikit-learn and Streamlit for deployment, forecasting market trends using historical stock data. This was published in IJSERM...  
-📎 <a href="https://ijsrem.com/download/analytical-detection-of-smart-stock-trading-system-utilizing-ai-model/">Read more</a>
+In 2024, I engineered a full-stack AI-powered Stock Trading System leveraging TensorFlow, Keras, PyTorch, Scikit-learn and Streamlit for deployment, forecasting market trends using historical stock data. This was published in IJSERM...📎 <a href="https://ijsrem.com/download/analytical-detection-of-smart-stock-trading-system-utilizing-ai-model/">Read more</a>
 </p>
 
 <p>
