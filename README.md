@@ -6,12 +6,11 @@
 <h4 align="left" >
 Welcome to my GitHub – building futuristic frontend designs with <strong>React</strong>, <strong>Next.js</strong>, <strong>Tailwind</strong> & <strong>AI</strong>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" />
 </h4>
-
+<br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=32&pause=1000&color=6E6E6E&center=true&vCenter=true&width=600&lines=Hi+there!;This+is+Subhradeep+Nath;The+Next-Gen+Frontend+Developer;Transforming+ideas+into;Innovative+Interfaces" alt="Typing SVG" />
 </p>
-
-
+<br>
 
 <img align="right" width="310" height="450" src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/Gitimage.gif" alt="Coding GIF" />
 
