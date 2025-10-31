@@ -1,7 +1,9 @@
 <!-- Banner -->
+
 <p align="center">
-  <img src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/My github banner.png" alt="banner" />
+  <img src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/My%20github%20cover.png" alt="banner" />
 </p>
+
 
 <h4 align="left" >
 Welcome to my GitHub – building futuristic frontends with <strong>React</strong>, <strong>Next.js</strong>, <strong>Tailwind</strong> & <strong>AI</strong>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" />
