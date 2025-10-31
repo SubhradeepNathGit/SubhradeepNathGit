@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/Technology%20LinkedIn%20Banner%20in%20Black%20Blue%20Simple%20Style%20(2).png" alt="banner" />
+  <img src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/My github banner.png" alt="banner" />
 </p>
 
 <h4 align="left" >
