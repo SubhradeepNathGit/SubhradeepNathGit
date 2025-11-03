@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/Github%20cover.png" alt="banner" />
+  <img src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/blob/main/github%20cover.png" alt="banner" />
 </p>
 
 
