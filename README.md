@@ -141,11 +141,11 @@ Nowadays, I’m focused on building production-grade, frontend-driven applicatio
   <tr>
     <td width="50%" align="center">
       <details open>
-        <summary>📅 Full year calendar</summary>
+        <summary> Full year calendar</summary>
         <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt="Contribution Calendar">
       </details>
       <details>
-        <summary>📅 Half year calendar</summary>
+        <summary> Half year calendar</summary>
         <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt="Half Year Calendar">
       </details>
     </td>
