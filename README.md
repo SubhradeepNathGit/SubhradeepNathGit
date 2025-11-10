@@ -22,7 +22,7 @@ Welcome to my GitHub – building futuristic frontends with <strong>React</stron
 - 📮 Reach me at **subhradeepnathprofessional@gmail.com**
 <br/>
 
-<h3 align="left">Connect & add me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/subhradeep-nath-dev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -40,7 +40,7 @@ Welcome to my GitHub – building futuristic frontends with <strong>React</stron
 
 
 
-<h2 align="left">from 𓏠circuits  to  ⚛coding </> : My Dev Journey</h2>
+<h2 align="left">From Circuits to Coding </> : My Journey</h2>
 
 <p>
 I'm a versatile Frontend developer with a strong MERN enthusiasm, proficient in building modern, smooth & responsive, performance-based web applications.  
