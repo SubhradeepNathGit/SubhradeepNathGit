@@ -159,7 +159,7 @@ Nowadays, I’m focused on building production-grade, frontend-driven applicatio
 
 
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SubhradeepNathGit&label=Profile%20Views&style=flat-square&color=blueviolet&labelColor=00000000" alt="Profile Views" />
@@ -171,15 +171,25 @@ Nowadays, I’m focused on building production-grade, frontend-driven applicatio
 </div>
 
 
-<h2 align="center">📈 Contribution </h2>
+<h2 align="center"> Github Contribution </h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhradeepNathGit&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhradeepNathGit&bg_color=00000000&color=58a6ff&line=F5F5DC&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 
-<p align="center">
 
 
+
+<div align="center">
+  
+  <tr>
+      <td><img src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/raw/main/skyline.svg" width="500"></td>
+      <td><img src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/raw/main/github-city.svg" width="500"></td>
+    </tr>
+
+</div>
+
+---
   
  <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Subhradeepnathgit&theme=dark&hide_border=true" alt="GitHub Streak" style="display: inline-block; vertical-align: top;" />
@@ -195,14 +205,7 @@ Nowadays, I’m focused on building production-grade, frontend-driven applicatio
 
 
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/raw/main/skyline.svg" width="500"></td>
-      <td><img src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/raw/main/github-city-isometric.svg" width="500"></td>
-    </tr>
-  </table>
-</div>
+
 
 
 
