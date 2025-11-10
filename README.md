@@ -136,6 +136,26 @@ Nowadays, I’m focused on building production-grade, frontend-driven applicatio
   <img src="https://github.com/ritinmandal/ritinmandal/blob/output/github-snake-dark.svg" alt="snake gif" />
 </div>
 
+<!--header-->
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <details open>
+        <summary>📅 Full year calendar</summary>
+        <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt="Contribution Calendar">
+      </details>
+      <details>
+        <summary>📅 Half year calendar</summary>
+        <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt="Half Year Calendar">
+      </details>
+    </td>
+    <td width="50%" align="center">
+      <h3>🏆 Achievements</h3>
+      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt="Achievements">
+    </td> 
+  </tr>
+</table>
+<!--/header-->
 
 
 
@@ -168,10 +188,23 @@ Nowadays, I’m focused on building production-grade, frontend-driven applicatio
 </p>
 
 
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quotes" />
 </p>
+
+
+
+<table>
+    <td width="50%" align="center">
+      <h3>GitHub Skyline</h3>
+      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.svg" alt="GitHub Skyline">
+    </td>
+    <td width="50%" align="center">
+      <h3>GitHub City</h3>
+      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.city.svg" alt="GitHub City">
+    </td>
+  </tr>
+</table>
 
 
 
