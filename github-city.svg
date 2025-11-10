@@ -1,0 +1,220 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0e27;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1f3a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="groundGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#161b22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+    <filter id="cityGlow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="gridPattern" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#30363d" stroke-width="0.5" opacity="0.3"/>
+    </pattern>
+  </defs>
+  
+  <!-- Sky Background -->
+  <rect width="800" height="600" fill="transparent"/>
+  
+  <!-- Stars -->
+  <circle cx="100" cy="50" r="1.5" fill="#ffffff" opacity="0.8"/>
+  <circle cx="200" cy="80" r="1" fill="#ffffff" opacity="0.6"/>
+  <circle cx="350" cy="40" r="1.2" fill="#ffffff" opacity="0.7"/>
+  <circle cx="500" cy="60" r="1" fill="#ffffff" opacity="0.5"/>
+  <circle cx="650" cy="90" r="1.5" fill="#ffffff" opacity="0.8"/>
+  <circle cx="720" cy="50" r="1" fill="#ffffff" opacity="0.6"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="'Courier New', monospace" font-size="24" font-weight="bold" fill="#58a6ff" text-anchor="middle">
+    GitHub City 2025
+  </text>
+  <text x="400" y="62" font-family="'Courier New', monospace" font-size="14" fill="#8b949e" text-anchor="middle">
+    @SubhradeepNathGit's Contribution Cityscape
+  </text>
+  
+  <!-- Ground plane (isometric) -->
+  <polygon points="150,450 400,320 650,450 400,580" fill="rgba(22, 27, 34, 0.3)" opacity="0.8"/>
+  <polygon points="150,450 400,320 650,450 400,580" fill="url(#gridPattern)"/>
+  
+  <!-- Isometric buildings representing contributions -->
+  
+  <!-- Row 1 (Back) - January to March -->
+  <g transform="translate(270, 330)">
+    <!-- Building 1 -->
+    <polygon points="0,0 20,-10 40,0 20,10" fill="#004d5a"/>
+    <polygon points="20,10 20,40 40,30 40,0" fill="#003944"/>
+    <polygon points="0,0 20,10 20,40 0,30" fill="#00424d"/>
+    
+    <!-- Building 2 -->
+    <polygon points="50,0 70,-10 90,0 70,10" fill="#007a8c"/>
+    <polygon points="70,10 70,55 90,45 90,0" fill="#005a68"/>
+    <polygon points="50,0 70,10 70,55 50,45" fill="#006a7a"/>
+    
+    <!-- Building 3 -->
+    <polygon points="100,0 120,-10 140,0 120,10" fill="#00b8d4"/>
+    <polygon points="120,10 120,70 140,60 140,0" fill="#008ba0"/>
+    <polygon points="100,0 120,10 120,70 100,60" fill="#009eb8"/>
+    
+    <!-- Building 4 -->
+    <polygon points="150,0 170,-10 190,0 170,10" fill="#00d9ff" filter="url(#cityGlow)"/>
+    <polygon points="170,10 170,85 190,75 190,0" fill="#00a8cc"/>
+    <polygon points="150,0 170,10 170,85 150,75" fill="#00c0e8"/>
+    
+    <!-- Building 5 -->
+    <polygon points="200,0 220,-10 240,0 220,10" fill="#00b8d4"/>
+    <polygon points="220,10 220,65 240,55 240,0" fill="#008ba0"/>
+    <polygon points="200,0 220,10 220,65 200,55" fill="#009eb8"/>
+  </g>
+  
+  <!-- Row 2 - April to June -->
+  <g transform="translate(250, 370)">
+    <!-- Building 6 -->
+    <polygon points="0,0 20,-10 40,0 20,10" fill="#00d9ff" filter="url(#cityGlow)"/>
+    <polygon points="20,10 20,80 40,70 40,0" fill="#00a8cc"/>
+    <polygon points="0,0 20,10 20,80 0,70" fill="#00c0e8"/>
+    
+    <!-- Building 7 -->
+    <polygon points="50,0 70,-10 90,0 70,10" fill="#00b8d4"/>
+    <polygon points="70,10 70,60 90,50 90,0" fill="#008ba0"/>
+    <polygon points="50,0 70,10 70,60 50,50" fill="#009eb8"/>
+    
+    <!-- Building 8 -->
+    <polygon points="100,0 120,-10 140,0 120,10" fill="#00d9ff" filter="url(#cityGlow)"/>
+    <polygon points="120,10 120,90 140,80 140,0" fill="#00a8cc"/>
+    <polygon points="100,0 120,10 120,90 100,80" fill="#00c0e8"/>
+    
+    <!-- Building 9 -->
+    <polygon points="150,0 170,-10 190,0 170,10" fill="#00b8d4"/>
+    <polygon points="170,10 170,68 190,58 190,0" fill="#008ba0"/>
+    <polygon points="150,0 170,10 170,68 150,58" fill="#009eb8"/>
+    
+    <!-- Building 10 -->
+    <polygon points="200,0 220,-10 240,0 220,10" fill="#007a8c"/>
+    <polygon points="220,10 220,50 240,40 240,0" fill="#005a68"/>
+    <polygon points="200,0 220,10 220,50 200,40" fill="#006a7a"/>
+    
+    <!-- Building 11 -->
+    <polygon points="250,0 270,-10 290,0 270,10" fill="#00d9ff" filter="url(#cityGlow)"/>
+    <polygon points="270,10 270,75 290,65 290,0" fill="#00a8cc"/>
+    <polygon points="250,0 270,10 270,75 250,65" fill="#00c0e8"/>
+  </g>
+  
+  <!-- Row 3 - July to September -->
+  <g transform="translate(230, 410)">
+    <!-- Building 12 -->
+    <polygon points="0,0 20,-10 40,0 20,10" fill="#00b8d4"/>
+    <polygon points="20,10 20,70 40,60 40,0" fill="#008ba0"/>
+    <polygon points="0,0 20,10 20,70 0,60" fill="#009eb8"/>
+    
+    <!-- Building 13 -->
+    <polygon points="50,0 70,-10 90,0 70,10" fill="#00d9ff" filter="url(#cityGlow)"/>
+    <polygon points="70,10 70,95 90,85 90,0" fill="#00a8cc"/>
+    <polygon points="50,0 70,10 70,95 50,85" fill="#00c0e8"/>
+    
+    <!-- Building 14 -->
+    <polygon points="100,0 120,-10 140,0 120,10" fill="#00b8d4"/>
+    <polygon points="120,10 120,62 140,52 140,0" fill="#008ba0"/>
+    <polygon points="100,0 120,10 120,62 100,52" fill="#009eb8"/>
+    
+    <!-- Building 15 -->
+    <polygon points="150,0 170,-10 190,0 170,10" fill="#00d9ff" filter="url(#cityGlow)"/>
+    <polygon points="170,10 170,78 190,68 190,0" fill="#00a8cc"/>
+    <polygon points="150,0 170,10 170,78 150,68" fill="#00c0e8"/>
+    
+    <!-- Building 16 -->
+    <polygon points="200,0 220,-10 240,0 220,10" fill="#00b8d4"/>
+    <polygon points="220,10 220,66 240,56 240,0" fill="#008ba0"/>
+    <polygon points="200,0 220,10 220,66 200,56" fill="#009eb8"/>
+    
+    <!-- Building 17 -->
+    <polygon points="250,0 270,-10 290,0 270,10" fill="#007a8c"/>
+    <polygon points="270,10 270,48 290,38 290,0" fill="#005a68"/>
+    <polygon points="250,0 270,10 270,48 250,38" fill="#006a7a"/>
+    
+    <!-- Building 18 -->
+    <polygon points="300,0 320,-10 340,0 320,10" fill="#00d9ff" filter="url(#cityGlow)"/>
+    <polygon points="320,10 320,82 340,72 340,0" fill="#00a8cc"/>
+    <polygon points="300,0 320,10 320,82 300,72" fill="#00c0e8"/>
+  </g>
+  
+  <!-- Row 4 (Front) - October to November -->
+  <g transform="translate(210, 450)">
+    <!-- Building 19 -->
+    <polygon points="0,0 20,-10 40,0 20,10" fill="#00d9ff" filter="url(#cityGlow)"/>
+    <polygon points="20,10 20,88 40,78 40,0" fill="#00a8cc"/>
+    <polygon points="0,0 20,10 20,88 0,78" fill="#00c0e8"/>
+    
+    <!-- Building 20 -->
+    <polygon points="50,0 70,-10 90,0 70,10" fill="#00b8d4"/>
+    <polygon points="70,10 70,64 90,54 90,0" fill="#008ba0"/>
+    <polygon points="50,0 70,10 70,64 50,54" fill="#009eb8"/>
+    
+    <!-- Building 21 -->
+    <polygon points="100,0 120,-10 140,0 120,10" fill="#00d9ff" filter="url(#cityGlow)"/>
+    <polygon points="120,10 120,92 140,82 140,0" fill="#00a8cc"/>
+    <polygon points="100,0 120,10 120,92 100,82" fill="#00c0e8"/>
+    
+    <!-- Building 22 -->
+    <polygon points="150,0 170,-10 190,0 170,10" fill="#00b8d4"/>
+    <polygon points="170,10 170,58 190,48 190,0" fill="#008ba0"/>
+    <polygon points="150,0 170,10 170,58 150,48" fill="#009eb8"/>
+    
+    <!-- Building 23 -->
+    <polygon points="200,0 220,-10 240,0 220,10" fill="#007a8c"/>
+    <polygon points="220,10 220,45 240,35 240,0" fill="#005a68"/>
+    <polygon points="200,0 220,10 220,45 200,35" fill="#006a7a"/>
+    
+    <!-- Building 24 -->
+    <polygon points="250,0 270,-10 290,0 270,10" fill="#00d9ff" filter="url(#cityGlow)"/>
+    <polygon points="270,10 270,76 290,66 290,0" fill="#00a8cc"/>
+    <polygon points="250,0 270,10 270,76 250,66" fill="#00c0e8"/>
+    
+    <!-- Building 25 -->
+    <polygon points="300,0 320,-10 340,0 320,10" fill="#00b8d4"/>
+    <polygon points="320,10 320,68 340,58 340,0" fill="#008ba0"/>
+    <polygon points="300,0 320,10 320,68 300,58" fill="#009eb8"/>
+    
+    <!-- Building 26 -->
+    <polygon points="350,0 370,-10 390,0 370,10" fill="#00d9ff" filter="url(#cityGlow)"/>
+    <polygon points="370,10 370,72 390,62 390,0" fill="#00a8cc"/>
+    <polygon points="350,0 370,10 370,72 350,62" fill="#00c0e8"/>
+  </g>
+  
+  <!-- Stats Panel -->
+  <g transform="translate(50, 530)">
+    <rect x="0" y="0" width="250" height="60" rx="5" fill="rgba(22, 27, 34, 0.7)" opacity="0.9"/>
+    <text x="125" y="22" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#58a6ff" text-anchor="middle">
+      2025 Contribution Stats
+    </text>
+    <text x="10" y="38" font-family="'Courier New', monospace" font-size="10" fill="#00d9ff">
+      Total: 1,247 contributions
+    </text>
+    <text x="10" y="52" font-family="'Courier New', monospace" font-size="10" fill="#8b949e">
+      Longest Streak: 42 days
+    </text>
+  </g>
+  
+  <!-- Legend -->
+  <g transform="translate(520, 530)">
+    <rect x="0" y="0" width="230" height="60" rx="5" fill="rgba(22, 27, 34, 0.7)" opacity="0.9"/>
+    <text x="115" y="18" font-family="'Courier New', monospace" font-size="10" font-weight="bold" fill="#8b949e" text-anchor="middle">
+      Building Height = Contributions
+    </text>
+    <text x="10" y="35" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">Less</text>
+    <rect x="40" y="27" width="12" height="12" fill="#004d5a"/>
+    <rect x="55" y="27" width="12" height="12" fill="#007a8c"/>
+    <rect x="70" y="27" width="12" height="12" fill="#00b8d4"/>
+    <rect x="85" y="27" width="12" height="12" fill="#00d9ff"/>
+    <text x="102" y="35" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">More</text>
+    <text x="10" y="52" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">
+      Jan - Nov 2025 | @SubhradeepNathGit
+    </text>
+  </g>
+</svg>
