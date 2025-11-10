@@ -1,0 +1,104 @@
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#161b22;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background removed for transparency -->
+  <!-- <rect width="800" height="400" fill="url(#skyGradient)"/> -->
+
+  <!-- Grid lines -->
+  <g opacity="0.1" stroke="#00d9ff" stroke-width="0.5" fill="none">
+    <line x1="50" y1="350" x2="750" y2="350"/>
+    <line x1="50" y1="300" x2="750" y2="300"/>
+    <line x1="50" y1="250" x2="750" y2="250"/>
+    <line x1="50" y1="200" x2="750" y2="200"/>
+  </g>
+
+  <!-- Title -->
+  <text x="400" y="30" font-family="'Courier New', monospace" font-size="20" font-weight="bold" fill="#58a6ff" text-anchor="middle">
+    My GitHub Skyline 2025
+  </text>
+
+  <!-- Subtitle -->
+  <text x="400" y="50" font-family="'Courier New', monospace" font-size="12" fill="#8b949e" text-anchor="middle">
+    365 days of contributions
+  </text>
+
+  <!-- Skyline (centered) -->
+  <g transform="translate(50, 350)">
+    <polygon points="0,0 10,-20 20,0 10,5" fill="#007a8c"/>
+    <polygon points="20,0 30,-35 40,0 30,5" fill="#00b8d4"/>
+    <polygon points="40,0 50,-45 60,0 50,5" fill="#00d9ff" filter="url(#glow)"/>
+    <polygon points="60,0 70,-28 80,0 70,5" fill="#00b8d4"/>
+    <polygon points="80,0 90,-40 100,0 90,5" fill="#00d9ff"/>
+    <polygon points="100,0 110,-25 120,0 110,5" fill="#007a8c"/>
+    <polygon points="120,0 130,-50 140,0 130,5" fill="#00d9ff" filter="url(#glow)"/>
+    <polygon points="140,0 150,-38 160,0 150,5" fill="#00b8d4"/>
+    <polygon points="160,0 170,-32 180,0 170,5" fill="#00b8d4"/>
+    <polygon points="180,0 190,-45 200,0 190,5" fill="#00d9ff"/>
+    <polygon points="200,0 210,-30 220,0 210,5" fill="#007a8c"/>
+    <polygon points="220,0 230,-40 240,0 230,5" fill="#00b8d4"/>
+    <polygon points="240,0 250,-48 260,0 250,5" fill="#00d9ff" filter="url(#glow)"/>
+    <polygon points="260,0 270,-34 280,0 270,5" fill="#00b8d4"/>
+    <polygon points="280,0 290,-42 300,0 290,5" fill="#00d9ff"/>
+    <polygon points="300,0 310,-30 320,0 310,5" fill="#00b8d4"/>
+    <polygon points="320,0 330,-38 340,0 330,5" fill="#00b8d4"/>
+    <polygon points="340,0 350,-45 360,0 350,5" fill="#00d9ff"/>
+    <polygon points="360,0 370,-32 380,0 370,5" fill="#00b8d4"/>
+    <polygon points="380,0 390,-48 400,0 390,5" fill="#00d9ff" filter="url(#glow)"/>
+    <polygon points="400,0 410,-36 420,0 410,5" fill="#00b8d4"/>
+    <polygon points="420,0 430,-42 440,0 430,5" fill="#00d9ff"/>
+    <polygon points="440,0 450,-28 460,0 450,5" fill="#007a8c"/>
+    <polygon points="460,0 470,-35 480,0 470,5" fill="#00b8d4"/>
+    <polygon points="480,0 490,-45 500,0 490,5" fill="#00d9ff"/>
+    <polygon points="500,0 510,-30 520,0 510,5" fill="#00b8d4"/>
+    <polygon points="520,0 530,-40 540,0 530,5" fill="#00d9ff" filter="url(#glow)"/>
+    <polygon points="540,0 550,-36 560,0 550,5" fill="#00b8d4"/>
+    <polygon points="560,0 570,-30 580,0 570,5" fill="#007a8c"/>
+    <polygon points="580,0 590,-42 600,0 590,5" fill="#00b8d4"/>
+    <polygon points="600,0 610,-50 620,0 610,5" fill="#00d9ff" filter="url(#glow)"/>
+    <polygon points="620,0 630,-38 640,0 630,5" fill="#00b8d4"/>
+    <polygon points="640,0 650,-45 660,0 650,5" fill="#00d9ff"/>
+    <polygon points="660,0 670,-35 680,0 670,5" fill="#00b8d4"/>
+    <polygon points="680,0 690,-40 700,0 690,5" fill="#00d9ff"/>
+  </g>
+
+  <!-- Stats -->
+  <g transform="translate(60, 370)">
+    <text x="0" y="0" font-family="'Courier New', monospace" font-size="11" fill="#58a6ff">
+      Total Contributions: 1,247
+    </text>
+    <text x="0" y="15" font-family="'Courier New', monospace" font-size="11" fill="#00d9ff">
+      Longest Streak: 42 days
+    </text>
+  </g>
+
+  <g transform="translate(580, 370)">
+    <text x="0" y="0" font-family="'Courier New', monospace" font-size="11" fill="#8b949e">
+      Jan 2025 - Nov 2025
+    </text>
+    <text x="0" y="15" font-family="'Courier New', monospace" font-size="11" fill="#8b949e">
+      @SubhradeepNathGit
+    </text>
+  </g>
+
+  <!-- Legend -->
+  <g transform="translate(310, 380)">
+    <text x="0" y="0" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">Less</text>
+    <rect x="30" y="-8" width="8" height="8" fill="#004d5a"/>
+    <rect x="42" y="-8" width="8" height="8" fill="#007a8c"/>
+    <rect x="54" y="-8" width="8" height="8" fill="#00b8d4"/>
+    <rect x="66" y="-8" width="8" height="8" fill="#00d9ff"/>
+    <text x="80" y="0" font-family="'Courier New', monospace" font-size="9" fill="#8b949e">More</text>
+  </g>
+</svg>
