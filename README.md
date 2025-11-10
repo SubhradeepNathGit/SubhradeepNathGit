@@ -194,17 +194,17 @@ Nowadays, I’m focused on building production-grade, frontend-driven applicatio
 
 
 
-<table>
-    <td width="50%" align="center">
-      <h3>GitHub Skyline</h3>
-      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.svg" alt="GitHub Skyline">
-    </td>
-    <td width="50%" align="center">
-      <h3>GitHub City</h3>
-      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.skyline.city.svg" alt="GitHub City">
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/raw/main/skyline.svg" width="500"></td>
+      <td><img src="https://github.com/SubhradeepNathGit/SubhradeepNathGit/raw/main/github-city-isometric.svg" width="500"></td>
+    </tr>
+  </table>
+</div>
+
+
 
 
 
